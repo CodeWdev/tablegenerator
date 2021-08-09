@@ -5,8 +5,8 @@
 [![PHP from Packagist](https://img.shields.io/packagist/php-v/codewdev/tablegenerator.svg?style=flat-square)](https://packagist.org/packages/TableGenerator)
 [![Latest Version](https://img.shields.io/github/release/CodeWdev/TableGenerator.svg?style=flat-square)](https://github.com/CodeWdev/TableGenerator/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
-[![Build](https://img.shields.io/scrutinizer/build/g/robsonvleite/datalayer.svg?style=flat-square)](https://scrutinizer-ci.com/g/codewdev/tablegenerator)
-[![Quality Score](https://img.shields.io/scrutinizer/g/robsonvleite/datalayer.svg?style=flat-square)](https://scrutinizer-ci.com/g/codewdev/tablegenerator)
+[![Build](https://img.shields.io/scrutinizer/build/g/codewdev/tablegenerator.svg?style=flat-square)](https://scrutinizer-ci.com/g/codewdev/tablegenerator)
+[![Quality Score](https://img.shields.io/scrutinizer/g/codewdev/tablegenerator.svg?style=flat-square)](https://scrutinizer-ci.com/g/codewdev/tablegenerator)
 [![Total Downloads](https://img.shields.io/packagist/dt/codewdev/tablegenerator.svg?style=flat-square)](https://packagist.org/packages/codewdev/tablegenerator)
 
 ###### 
