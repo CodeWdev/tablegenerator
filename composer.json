@@ -1,0 +1,38 @@
+{
+  "name": "codewdev/tablegenerator",
+  "description": "Biblioteca de criação de tabelas para projetos em php",
+  "minimum-stability": "stable",
+  "type": "library",
+  "keywords": [
+    "CodeWdev",
+    "WRRDev",
+    "tablegenerator",
+    "PHP",
+    "Table",
+    "tabelas banco de dados"
+  ],
+  "homepage": "https://wrrdev.com",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Wesley R.Reis",
+      "email": "wrrdeveloper@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.2",
+    "ext-json": "*"
+  },
+  "config": {
+    "vendor-dir": "vendor"
+  },
+  "autoload": {
+    "psr-4": {
+      "CodeWdev\\TableGenerator\\": "src/"
+    },
+    "files": [
+      "src/Config.php"
+    ]
+  }
+}
