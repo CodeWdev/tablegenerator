@@ -1,11 +1,11 @@
 # Table Generator @WDev
 
 [![Maintainer](http://img.shields.io/badge/maintainer-@WesleyR99998115-blue.svg?style=flat-square)](https://twitter.com/@WesleyR99998115)
-[![Source Code](http://img.shields.io/badge/source-tablegenerator-blue.svg?style=flat-square)](https://github.com/CodeWdev/TableGenerator)
-[![PHP from Packagist](https://img.shields.io/packagist/php-v/codewdev/tablegenerator.svg?style=flat-square)](https://packagist.org/packages/CodeWdev/TableGenerator)
+[![Source Code](http://img.shields.io/badge/source-codewdev/tablegenerator-blue.svg?style=flat-square)](https://github.com/CodeWdev/TableGenerator)
+[![PHP from Packagist](https://img.shields.io/packagist/php-v/CodeWdev/TableGenerator.svg?style=flat-square)](https://packagist.org/packages/codewdev/tablegenerator)
 [![Latest Version](https://img.shields.io/github/release/CodeWdev/TableGenerator.svg?style=flat-square)](https://github.com/CodeWdev/TableGenerator/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
-[![Build](https://img.shields.io/scrutinizer/build/g/robsonvleite/datalayer.svg?style=flat-square)](https://scrutinizer-ci.com/g/codewdev/tablegenerator)
+[![Build](https://img.shields.io/scrutinizer/build/g/codewdev/tablegenerator.svg?style=flat-square)](https://scrutinizer-ci.com/g/codewdev/tablegenerator)
 [![Quality Score](https://img.shields.io/scrutinizer/g/codewdev/tablegenerator.svg?style=flat-square)](https://scrutinizer-ci.com/g/codewdev/tablegenerator)
 [![Total Downloads](https://img.shields.io/packagist/dt/codewdev/tablegenerator.svg?style=flat-square)](https://packagist.org/packages/codewdev/tablegenerator)
 
@@ -118,8 +118,8 @@ Thank you
 ## Credits
 
 - [Wesley R.Reis](https://github.com/wesley-reis) (Developer)
-- [All Contributors](https://github.com/wesley-reis/TableGenerator/contributors) (This Rock)
+- [All Contributors](https://github.com/CodeWdev/TableGenerator/contributors) (This Rock)
 
 ## License
 
-The MIT License (MIT). Please see [License File](https://github.com/wesley-reis/TableGenerator/blob/master/LICENSE) for more information.
+The MIT License (MIT). Please see [License File](https://github.com/CodeWdev/TableGenerator/blob/master/LICENSE) for more information.
