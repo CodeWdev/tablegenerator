@@ -1,4 +1,4 @@
-# Table Generator @WRRDev
+# Table Generator @WDev
 
 [![Maintainer](http://img.shields.io/badge/maintainer-@WesleyR99998115-blue.svg?style=flat-square)](https://twitter.com/@WesleyR99998115)
 [![Source Code](http://img.shields.io/badge/source-tablegenerator-blue.svg?style=flat-square)](https://github.com/wesley-reis/TableGenerator)

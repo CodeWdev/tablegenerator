@@ -1,6 +1,5 @@
 <?php
 
-
 define("TABLE_GEN_CONF", [
     "driver" => "mysql",
     "host" => "localhost",
