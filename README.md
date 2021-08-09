@@ -14,7 +14,7 @@ The table generator is a component for creating tables for your database that us
 
 O table generator é um componente para criação de tabelas para seu banco de dados que usa PDO para incluir, deletar e editar tabelas usando m arquivo simples em php.
 
-### Highlights
+### Highlights WESLEY
 
 - Easy to set up (Fácil de configurar)
 - Create tables fast and easy (Crie tabelas rápido e fácil)
